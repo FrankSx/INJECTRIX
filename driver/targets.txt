@@ -1,0 +1,2 @@
+# one target per line — lines starting with # are ignored
+https://example.com
